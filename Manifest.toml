@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "engon"
+version = "1.2.1"
+name = "engon"
+tagline = "Browse assets, filter and sort them, scatter, animate, manipulate rigs"
+maintainer = "polygoniq <ahoy@polygoniq.com>"
+type = "add-on"
+
+permissions = ["files", "network"]
+website = "https://docs.polygoniq.com/engon/1.2.1/"
+tags = ["Add Mesh", "Animation", "Material", "Mesh", "Object", "Scene", "User Interface"]
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2018- polygoniq xyz s.r.o",
+]
