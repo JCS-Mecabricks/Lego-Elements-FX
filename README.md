@@ -16,4 +16,5 @@ With the bush of a button, You can make more detail LEGO Renders!
 
 
 ## Warning
-**When using separation or rotation, make sure the current frame is higher than one or else the particles will not show in tyhe final render**
+**When using separation or rotation, make sure the current frame is higher than one or else the particles will not show in the final render.**
+Also make sure to move away or hide the Dust, Raindrop, Leaf, and Firefly instance objects so they don't get in the final render. 
